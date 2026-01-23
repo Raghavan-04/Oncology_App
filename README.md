@@ -1,5 +1,8 @@
 # Oncology_ChatBot
 # 🩺 Oncowise AI Chatbot: Cancer Treatment Application
+![Project Status](https://img.shields.io/badge/Status-Completed-success) 
+![Project Year](https://img-shields.io/badge/Year-October%202024-blue)
+![Affiliation](https://img.shields.io/badge/Affiliation-PSG%20College%20of%20Technology-red)
 
 **Project Name:** CANCER TREATMENT APPLICATION BASED ON PUBMED ARTICLES
 **Submitted By:** Raghavan SU 
