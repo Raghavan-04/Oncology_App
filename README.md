@@ -5,7 +5,7 @@
 ![Affiliation](https://img.shields.io/badge/Affiliation-PSG%20College%20of%20Technology-red)
 
 **Project Name:** CANCER TREATMENT APPLICATION BASED ON PUBMED ARTICLES
-**Submitted By:** Raghavan SU 
+**Documented & Submitted By:** Raghavan SU 
 
 ---
 
