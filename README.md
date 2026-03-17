@@ -28,7 +28,13 @@ The system employs a multi-task learning approach combining three distinct BioBE
 | **Client Side** | Swift-based Mobile App | User Interface | Provides a mobile interface for real-time interaction (OncoChats). |
 | **Backend** | Flask API | Deployment | Secure query transmission and accessibility of the model pipeline. |
 
-photos/Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10.30.10.png
+
+---
+ ## Application
+ 
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 10" src="https://github.com/user-attachments/assets/24e98f8a-30fd-491c-8377-1a2531c70d4f" />
+
+ ---
 
 ## 📊 Performance & Outcome Analysis
 
