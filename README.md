@@ -30,7 +30,6 @@ The system employs a multi-task learning approach combining three distinct BioBE
 
 photos/Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10.30.10.png
 
-
 ## 📊 Performance & Outcome Analysis
 
 The model was evaluated using a multi-task approach. While individual tasks performed strongly, the Overall Accuracy reflects the complexity of the integrated system.
