@@ -80,6 +80,9 @@ The model was evaluated using a multi-task approach. While individual tasks perf
 **Chat page**
 <img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 32" src="https://github.com/user-attachments/assets/f625a0fb-5616-4b2b-8cce-fb6fe45cc091" />
 
+**Book appointments**
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 55" src="https://github.com/user-attachments/assets/a85d36f8-2848-46fd-8ea3-08acd31b4ee6" />
+
  ---
 
 ## ⚖️ License
