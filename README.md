@@ -83,6 +83,14 @@ The model was evaluated using a multi-task approach. While individual tasks perf
 **Book appointments**
 <img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 55" src="https://github.com/user-attachments/assets/a85d36f8-2848-46fd-8ea3-08acd31b4ee6" />
 
+**Symptoms**
+
+**Lab Result**
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 31 30" src="https://github.com/user-attachments/assets/6d86bc8b-a4d4-47f2-a470-b2e691487051" />
+
+**Setting page**
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 31 37" src="https://github.com/user-attachments/assets/34d14365-a090-489f-a5db-d7d8a6c1641b" />
+
  ---
 
 ## ⚖️ License
