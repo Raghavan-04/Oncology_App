@@ -29,13 +29,6 @@ The system employs a multi-task learning approach combining three distinct BioBE
 | **Backend** | Flask API | Deployment | Secure query transmission and accessibility of the model pipeline. |
 
 
----
- ## Application
- 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 10" src="https://github.com/user-attachments/assets/24e98f8a-30fd-491c-8377-1a2531c70d4f" />
-
- ---
-
 ## 📊 Performance & Outcome Analysis
 
 The model was evaluated using a multi-task approach. While individual tasks performed strongly, the Overall Accuracy reflects the complexity of the integrated system.
@@ -79,6 +72,12 @@ The model was evaluated using a multi-task approach. While individual tasks perf
     *   Ensure all necessary pods/dependencies are installed.
     *   Configure Firebase/Google Sign-In by adding a valid `GoogleService-Info.plist` file (if necessary).
     *   Run the application on a simulator or physical device.
+      ---
+
+ 
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Plus - 2024-11-25 at 10 30 10" src="https://github.com/user-attachments/assets/24e98f8a-30fd-491c-8377-1a2531c70d4f" />
+
+ ---
 
 ## ⚖️ License
 
